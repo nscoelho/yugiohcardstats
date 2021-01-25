@@ -1,1 +1,1 @@
-Visit this page at https://yugiohcardstats.herokuapp.com/
+Visit this page at https://www.yugiohcardstats.com/
